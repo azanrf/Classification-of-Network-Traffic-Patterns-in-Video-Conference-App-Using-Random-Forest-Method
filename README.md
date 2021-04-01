@@ -33,7 +33,7 @@ The parameter of Random Forest that i use:
 |Experiment 5|3        |100         |gini     |
 |Experiment 6|4        |100         |gini     |
 
-### Result
+### Result Confusion Matrix
 - Confusion Matrix Experiment 1:
   - |10028|3165 |
     |:---:|:---:| 
@@ -58,6 +58,16 @@ The parameter of Random Forest that i use:
   - |13009|184 |
     |:---:|:---:| 
     |**70** |**23921**|    
+    
+### Result with Accuracy, TPR, FPR, TNR, and FNR
+|Experiment  |Accuracy |TPR   |FPR   |FPR   |TNR   |FNR   |
+|:---:       |:---:    |:---: |:---: |:---: |:---: |:---: |
+|Experiment 1|87%      |87%   |23%   |23%   |76%   |6%    |
+|Experiment 2|94%      |91%   |15%   |23%   |84%   |0.3%  |
+|Experiment 3|96%      |95%   |7%    |23%   |92%   |0.3%  |
+|Experiment 4|94%      |92%   |15%   |23%   |84%   |0.2%  |
+|Experiment 5|96%      |94%   |10%   |23%   |89%   |0.3%  |
+|Experiment 6|99%      |99%   |1%    |23%   |98%   |0.2%  |
 
 ### 📫 How to reach me:
 <p align="left"> 
