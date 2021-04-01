@@ -1,6 +1,6 @@
 # Classification of Network Traffic Patterns in Video Conference Application Using Random Forest Method
 
-Implementation Random Forest for Network Traffic Pattertn Classificaton on Video Conference Application.
+Implementation Random Forest for Network Traffic Pattertn Classification on Video Conference Application.
 - Software that i use:
   - Zoom
   - Wireshark
