@@ -71,7 +71,7 @@ The parameter of Random Forest that i use:
 
 ### 📫 How to reach me:
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/muhammad-rizki-fauzaan-a32a94176/" target="_blank"><img align="left" alt="Muhammad Rizki Fauzaan | Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-rizki-fauzaan/" target="_blank"><img align="left" alt="Muhammad Rizki Fauzaan | Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/azanrf" target="_blank" target="_blank"><img align="left" alt="azanrf | Twitter" src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/rizki.fauzaan/" target="_blank"><img align="left" alt="Muhammad Rizki Fauzaan | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/azanrf" target="_blank"><img align="left" alt="azanrf | Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
